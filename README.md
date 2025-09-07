@@ -1,8 +1,8 @@
-## Olá, sou Guilherme Pires, um entusiasta da Ciência de Dados em formação! 👋
+## Olá, sou Guilherme Pires, um entusiasta em Dados em formação! 👋
 
 **🎓 Minha Jornada Acadêmica:**
 
-Atualmente, estou imerso no universo dos dados, cursando **Ciência de Dados com Inteligência Artificial**, com formatura prevista para 2026. Para aprimorar minhas habilidades de programação, também estou concluindo a formação em **Python Developer para Data Science** em 2024.
+Atualmente, estou imerso no universo dos dados, cursando **Banco de Dados + Inteligência Artificial**, com formatura prevista para 2027. Para aprimorar minhas habilidades de programação, também estou concluindo a formação em **Python Developer para Data Science** em 2024.
 
 **💡 Foco e Interesses:**
 
