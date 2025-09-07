@@ -1,21 +1,25 @@
-Olá, eu sou o Cientista de Dados Guilherme Pires! 👋
+## Olá, sou Guilherme Pires, um entusiasta da Ciência de Dados em formação! 👋
 
-🎓 Formação Acadêmica: Atualmente cursando Data Science com IA, com previsão de conclusão em 2026 Além disso, estou cursando Python Devoloper para Datascience, com conclusão esperada em 2024.
+**🎓 Minha Jornada Acadêmica:**
 
-💻 Especialização: Apaixonado por Ciência de Dados e desenvolvimento de habilidades em:
+Atualmente, estou imerso no universo dos dados, cursando **Ciência de Dados com Inteligência Artificial**, com formatura prevista para 2026. Para aprimorar minhas habilidades de programação, também estou concluindo a formação em **Python Developer para Data Science** em 2024.
 
-Análise de dados
+**💡 Foco e Interesses:**
 
-Visualização e exploração de dados
+Sou apaixonado por transformar dados brutos em insights e soluções práticas. Minha curiosidade me guia no aprendizado contínuo sobre:
 
-Modelagem preditiva
+* **Análise e Exploração de Dados:** Descobrir os segredos que os números escondem.
+* **Visualização de Dados:** Contar histórias claras e impactantes através de gráficos e dashboards.
+* **Modelagem Preditiva e Machine Learning:** Utilizar algoritmos para prever tendências e automatizar decisões.
 
-Machine Learning e modelagem de dados
+**💻 Ferramentas e Tecnologias que estou desenvolvendo:**
 
-📈 Ferramentas e Tecnologias: Trabalho com uma variedade de linguagens e ferramentas, incluindo:
+Tenho me dedicado a construir uma base sólida nas principais ferramentas e linguagens do mercado, incluindo:
 
-Python, SQL, Power BI, Excel Avançado
+* **Linguagens:** Python e SQL
+* **Ferramentas de BI e Análise:** Power BI e Excel
+* **Principais Bibliotecas de Data Science:** Pandas, NumPy, Matplotlib e Scikit-Learn
 
-Principais bibliotecas de Data Science como Pandas, NumPy, Matplotlib e Scikit-Learn
+**🚀 Objetivo Profissional:**
 
-📊 Interesses Profissionais: Transformar dados em insights e soluções práticas, explorando o potencial dos dados para resolver problemas complexos e gerar valor em projetos diversos.
+Como estudante, meu principal objetivo é aplicar o conhecimento que venho adquirindo em projetos desafiadores. Busco oportunidades para colaborar, aprender com profissionais experientes e contribuir para a solução de problemas complexos, utilizando o poder dos dados para gerar valor e impacto.
